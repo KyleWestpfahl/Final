@@ -1,0 +1,9 @@
+h1{
+  text-align: center; /*aligns text center*/
+  font-size: 60px; /*changes font size*/
+}
+h2{
+  font-size: 50px; /*changes font size*/
+  text-align: right; /*aligns text right*/
+  padding-right: 100px; /*adds padding right*/
+}

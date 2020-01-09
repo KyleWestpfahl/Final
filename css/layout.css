@@ -1,0 +1,121 @@
+.ul{
+list-style-type: none; /*removes any list style*/
+margin: 0; /*removes any margin*/
+padding: 0; /*removes any padding*/
+overflow: hidden; /*makes overflow hidden*/
+background-color: black; /* makes background color black*/
+}
+
+li{
+  float: left; /*makes li float leftv
+  padding-left: 35px /*gives the li 35px padding left*/
+}
+.bullets{
+font-size: 24px; /*makes font size 24px*/
+float:none; /*removes float*/
+}
+li a {
+  display: block; /*makes display block*/
+  color: white; /*makes color white*/
+  text-align: center; /*aligns text center*/
+  padding: 14px 16px; /*gives padding of 14 and 16px*/
+  text-decoration: none; /*removes text decoration*/
+}
+
+li a:hover:not(.active) {
+  background-color: ; /*adds background color*/
+}
+.active {
+   background-color: ; /*adds background color*/
+}
+
+p{
+  font-family: Helvetica; /*changes font style*/
+  padding-left: 60px; /*adds padding left*/
+}
+body{
+  background-color: #C1D4D6 ; /*changes background color*/
+}
+.title{
+  font-size: 50px; /*chnages font size*/
+  padding-left: 60px; /*adds padding left*/
+}
+.title2{
+  font-size: 35px; /*changes font size*/
+  padding-left: 60px; /*adds padding left*/
+}
+body {
+  background-image: url("../images/image6.jfif"); /*adds background image*/
+  -webkit-background-size: cover; /*changes background size*/
+  -moz-background-size: cover; /*changes background size*/
+  -o-background-size: cover; /*changes background size*/
+  background-size: cover; /*chnages background size*/
+}
+.me{
+  float: right; /*adds float right*/
+ margin: 20px 150px 20px 20px; /*adds a margin*/
+
+ border: 10px solid black; /*adds a border*/
+
+}
+/* for football pages */
+.h1-football{
+
+    text-align: center; /*aligns text center*/
+    font-size: 60px; /*changes font size*/
+}
+.h2-football{
+  font-size: 50px; /*changes font size*/
+  text-align: left; /*aligns text left*/
+  padding-left: 150px; /*adds padding left*/
+}
+.indent{
+  margin-left: 100px; /*adds a margin left*/
+}
+.lsup{
+  font-size: 25px; /*changes font size*/
+  font-family: sans-serif; /*chnages font style*/
+}
+.lsuimg{
+  align: center; /*aligns center*/
+}
+.h12{
+  text-align: center; /*aligns text center*/
+  font-size: 60px; /*changes font size*/
+}
+table, th, td{
+  border: 1px solid black; /*adds border*/
+  border-collapse: collapse; /*adds a border collapse*/
+  font-size: 60px; /*changes font size*/
+  width: 50%; /*adds width to the border*/
+  text-align: center; /*aligns text center*/
+  border-width: thick; /*makes border width thicker*/
+}
+.ibm{
+  float: right; /*adds float right*/
+  padding-right: 380px; /*adds padding right*/
+  padding-bottom: 800px; /*adds padding bottom*/
+  border-radius: 10px; /*adds a border radius*/
+}
+.code{
+  height: 200px; /*changes the height*/
+  width: 350px; /*changes the width*/
+padding-top: 30px; /*adds padding top*/
+}
+.future{
+  font-size: 100px; /*changes font size*/
+  padding-left: 550px; /*adds padding left*/
+}
+.bestwork{
+  font-size: 50px; /*chnages font size*/
+}
+.box{
+  margin-right: 20px; /*adds margin rght*/
+}
+.clear{
+  clear: both; /*makes iframe clear*/
+}
+.foot{
+  font-size: 20px; /*changes font size*/
+
+}

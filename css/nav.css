@@ -1,0 +1,54 @@
+
+  margin: 0; /*removes margin*/
+ font-family: "Lato", sans-serif; /*chnages font family */
+}
+
+.sidebar {
+  margin: 0; /*removes margin*/
+  padding: 0; /*removes padding*/
+  width: 200px; /*adds width*/
+  background-color: white; /* makes background color white*/
+  position: fixed; /*makes position fixed*/
+  height: 100%; /*makes height 100%*/
+  overflow: auto; /*makes overflow auto*/
+}
+
+.sidebar a {
+  display: block; /*makes display block*/
+  color: black; /*makes color black*/
+  padding: 16px; /*adds padding*/
+  text-decoration: none; /*removes text decoration*/
+}
+
+.sidebar a.active {
+  background-color: #4CAF50; /*chnages background color*/
+  color: white; /*makes color white*/
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555; /*changes background color*/
+  color: white; /*makes color white*/
+}
+
+div.content {
+  margin-left: 200px; /*adds margin left*/
+  padding: 1px 16px; /*adds padding*/
+  height: 1000px; /*makes height 1000px*/
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%; /*makes width 100%*/
+    height: auto; /*makes height auto*/
+    position: relative; /*makes position relative*/
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;} /*removes margin left*/
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center; /*aligns text center*/
+    float: none; /*removes float*/
+  }
+}
