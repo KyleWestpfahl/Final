@@ -84,7 +84,23 @@ body {
   font-size: 35px;
 }
 }
-.table, .th, .td{
+.table{
+  border: 1px solid black; /*adds border*/
+  border-collapse: collapse; /*adds a border collapse*/
+  font-size: 60px; /*changes font size*/
+  width: 50%; /*adds width to the border*/
+  text-align: center; /*aligns text center*/
+  border-width: thick; /*makes border width thicker*/
+}
+.th{
+  border: 1px solid black; /*adds border*/
+  border-collapse: collapse; /*adds a border collapse*/
+  font-size: 60px; /*changes font size*/
+  width: 50%; /*adds width to the border*/
+  text-align: center; /*aligns text center*/
+  border-width: thick; /*makes border width thicker*/
+}
+.td{
   border: 1px solid black; /*adds border*/
   border-collapse: collapse; /*adds a border collapse*/
   font-size: 60px; /*changes font size*/
