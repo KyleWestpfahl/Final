@@ -84,7 +84,7 @@ body {
   font-size: 35px;
 }
 }
-table, th, td{
+.table, th, td{
   border: 1px solid black; /*adds border*/
   border-collapse: collapse; /*adds a border collapse*/
   font-size: 60px; /*changes font size*/
@@ -125,6 +125,7 @@ padding-top: 30px; /*adds padding top*/
   margin-right: auto; /* makes margin auto*/
   padding-left: 800px; /* adds padding left*/
   border-radius: 15px; /*gives a border radius to image*/
+
 }
 .p1{
   text-align: center; /*aligns text to center*/
