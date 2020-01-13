@@ -114,7 +114,7 @@ body {
   height: 200px; /*changes the height*/
   width: 350px; /*changes the width*/
 padding-top: 30px; /*adds padding top*/
-}
+padding right: 400px; /*adds paddding right*/
 .future{
   font-size: 100px; /*changes font size*/
   padding-left: 550px; /*adds padding left*/
