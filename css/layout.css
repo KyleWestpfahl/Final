@@ -91,6 +91,8 @@ body {
   width: 50%; /*adds width to the border*/
   text-align: center; /*aligns text center*/
   border-width: thick; /*makes border width thicker*/
+  margin-left: auto; /*makes tables center*/
+  margin-right: auto; /*makes table center*/margin-left: auto; 
 }
   th, td{
   border: 1px solid black; /*adds border*/
