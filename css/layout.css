@@ -92,7 +92,7 @@ body {
   text-align: center; /*aligns text center*/
   border-width: thick; /*makes border width thicker*/
   margin-left: auto; /*makes tables center*/
-  margin-right: auto; /*makes table center*/margin-left: auto; 
+  margin-right: auto; /*makes table center*/
 }
   th, td{
   border: 1px solid black; /*adds border*/
