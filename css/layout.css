@@ -114,7 +114,8 @@ body {
   height: 200px; /*changes the height*/
   width: 350px; /*changes the width*/
 padding-top: 30px; /*adds padding top*/
-padding right: 400px; /*adds paddding right*/
+padding right: 200px; /*adds paddding right*/
+
 .future{
   font-size: 100px; /*changes font size*/
   padding-left: 550px; /*adds padding left*/
@@ -135,9 +136,8 @@ padding right: 400px; /*adds paddding right*/
 .ia{
   margin-left: auto; /*makes amrgin auto*/
   margin-right: auto; /* makes margin auto*/
-  padding-left: 800px; /* adds padding left*/
   border-radius: 15px; /*gives a border radius to image*/
-
+  border: 5px solid black; /*adds black border*/
 }
 .p1{
   text-align: center; /*aligns text to center*/
