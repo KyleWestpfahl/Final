@@ -127,6 +127,7 @@ padding right: 200px; /*adds paddding right*/
   margin-right: auto; /*adds margin auto*/
   margin-left:auto; /*adds margin auto*/
   text-align: center; /*aligns text center*/
+  padding-left: 20px; /*adds padding left*/
 }
 .clear{
   clear: both; /*makes iframe clear*/
