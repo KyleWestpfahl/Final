@@ -134,6 +134,7 @@ padding right: 200px; /*adds paddding right*/
   text-align: center; /*aligns text center*/
 }
 .ia{
+  display: block; /* adds display block*/
   margin-left: auto; /*makes amrgin auto*/
   margin-right: auto; /* makes margin auto*/
   border-radius: 15px; /*gives a border radius to image*/
