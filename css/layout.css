@@ -122,6 +122,7 @@ padding right: 200px; /*adds paddding right*/
 }
 .bestwork{
   font-size: 50px; /*chnages font size*/
+  text-align: center; /*aligns text center*/
 }
 .box{
   padding-right: : 500px; /*adds padding left*/
