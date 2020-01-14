@@ -124,8 +124,7 @@ padding right: 200px; /*adds paddding right*/
   font-size: 50px; /*chnages font size*/
 }
 .box{
-  text-align: center; /*aligns text center*/
-  padding-left: 5000px; /*adds padding left*/
+  padding-right: : 500px; /*adds padding left*/
 }
 .clear{
   clear: both; /*makes iframe clear*/
