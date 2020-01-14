@@ -147,3 +147,8 @@ padding right: 200px; /*adds paddding right*/
 .aj{
   padding left: 600px; /*adds padding left*/
 }
+iframe{
+  frameborder=0; /*makes frame broder 0*/
+  float: right; /*adds float right*/
+  width:33%; /*makes width33%*/
+}
